@@ -1,51 +1,30 @@
-# Welcome to your Expo app 👋
+# "# Construire-un-cran-About-avec-View-et-Text" 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Objectif :
+* Créer un écran AboutScreen avec les composants de base View et Text.
+* Ajouter un AppHeader et un AppFooter génériques.
+* Assembler le tout dans App.js avec flex pour gérer la mise en page.
 
-## Get started
+## Création du projet React Native avec Expo :
+<img width="959" height="500" alt="lab2 1" src="https://github.com/user-attachments/assets/7009a78b-f96e-4647-b571-72a4b192a691" />
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Exécution du projet 
+### Avec le téléphone
+![Exe tel 1](https://github.com/user-attachments/assets/7584d564-deaf-4415-a5eb-bc44965e3cd6)
+![exe tel 2](https://github.com/user-attachments/assets/df08cfca-bed4-4f59-bf68-41ee753f7c89)
 
-2. Start the app
+### Avec http://localhost:8081/
+<img width="959" height="475" alt="lab2 2 2" src="https://github.com/user-attachments/assets/d68c32e8-ccbb-4f96-85aa-7bccc414d1d1" />
+<img width="959" height="470" alt="Lab2 execustion 1 " src="https://github.com/user-attachments/assets/34f8d4f4-cf20-4026-abc6-09c7492b98e5" />
+<img width="959" height="469" alt="Lab2 Execution2" src="https://github.com/user-attachments/assets/b86147f1-53a3-475d-986f-c5270d372862" />
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## Auteur
+* Nom : BEN-LAGHFIRI Majeda
+* Cours: React Native
+* Date : Janvier 2026
+* Encadré par : Pr.Mohamed LACHGAR
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# Construire-un-cran-About-avec-View-et-Text" 
