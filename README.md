@@ -1,9 +1,24 @@
-# "# Construire-un-cran-About-avec-View-et-Text" 
+# " Construire-un-cran-About-avec-View-et-Text" 
 
 ## Objectif :
 * Créer un écran AboutScreen avec les composants de base View et Text.
 * Ajouter un AppHeader et un AppFooter génériques.
 * Assembler le tout dans App.js avec flex pour gérer la mise en page.
+
+## Notions pédagogiques consolidées
+Ce lab renforce plusieurs notions importantes :
+### View comme conteneur de base
+* Organisation de la page en zones : header, content, footer.
+* Utilisation de flex au bon niveau (contenu central).
+### Text pour tout texte à l’écran
+* Titre, sous-titre et paragraphe gérés par des Text différents.
+* Propriété numberOfLines pour limiter un paragraphe.
+### Flexbox simplifiée
+* flex: 1 sur la vue centrale pour remplir l’espace disponible.
+* Absence de flex sur header/footer pour les garder en haut/bas sans étirer.
+### StyleSheet
+* Centralisation des styles, au lieu de répéter les objets inline.
+* Meilleure lisibilité et maintenance du code.
 
 ## Création du projet React Native avec Expo :
 <img width="959" height="500" alt="lab2 1" src="https://github.com/user-attachments/assets/7009a78b-f96e-4647-b571-72a4b192a691" />
